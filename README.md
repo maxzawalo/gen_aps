@@ -1,4 +1,5 @@
 # Кочевник. Планирование
+![Диаграмма Ганта](img/gantt.jpg)
 
 Модуль для планирования любой деятельности: производства, торговли,  составления учебных планов и путешествий.
 
@@ -27,5 +28,9 @@
 
 [Запустить MCTS_APS в Google Colab](https://colab.research.google.com/github/maxzawalo/gen_aps/blob/main/mcts_aps.ipynb)
 
+---
+### Запуск на Android смарфоне
+[Проект «Кочевник» ](https://github.com/maxzawalo/nomas)
 
-### [Поддержать проект](https://boosty.to/maxzawalo/posts/00d44ced-d2a7-4ed3-9a9d-a83e17b723f6)
+---
+### [Поддержать проект](https://boosty.to/maxzawalo)
